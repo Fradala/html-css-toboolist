@@ -20,10 +20,16 @@
     margin-bottom: 20px;
 }
 
-.corpo{
+.contenitori{
+    width: 500px;
     margin: auto;
-    height: auto;
-    width: auto;
+    margin-bottom: 50px;
+
+}
+
+main{
+  width: 500px;
+  margin: auto;
 }
 
 .bottone-blu{
