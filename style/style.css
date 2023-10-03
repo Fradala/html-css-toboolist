@@ -45,7 +45,44 @@
 
 ul {
     margin-left: 50px;
+    margin-bottom: 20px;
    
     list-style-type: 
    
 }
+
+.rettangolo-blu{
+    background-color:blue;
+   
+
+
+}
+
+.rettangolo{
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 5px;
+    color: white;
+    font-size: 10px;
+
+}
+
+.rettangolo-viola{
+    background-color: blueviolet;
+}
+
+.rettangolo-verde-scuro{
+    background-color: green;
+}
+
+.rettangolo-arancione{
+    background-color: orange;
+}
+.rettangolo-fuchsia{
+    background-color: fuchsia;
+}
+
+.rettangolo-verde-chiaro{
+    background-color: lightgreen;
+}
+    
