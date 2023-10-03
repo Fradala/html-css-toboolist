@@ -20,8 +20,10 @@
     margin-bottom: 20px;
 }
 
-.contenitore{
-    
+.corpo{
+    margin: auto;
+    height: auto;
+    width: auto;
 }
 
 .bottone-blu{
@@ -42,13 +44,21 @@
     width: 100px;
 }
 
+p{
+    margin-bottom: 10px;
+}
 
 ul {
     margin-left: 50px;
-    margin-bottom: 20px;
-   
-    list-style-type: 
-   
+    margin-bottom: 20px; 
+}
+
+.croce{
+    list-style-type: symbols(&times;);
+}
+
+.spunta{
+    list-style-type: symbols(&#8730;);
 }
 
 .rettangolo-blu{
