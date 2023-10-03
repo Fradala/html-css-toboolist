@@ -24,16 +24,23 @@
     
 }
 
-.contenitore-blu{
-    width: 40px;
-    he
-}
+.bottone-blu{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
     
 
-.corpo{
-    margin: auto;
 }
 
+.bottone-bianco{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}
 
 
 ul {
